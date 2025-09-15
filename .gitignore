@@ -1,0 +1,14 @@
+# Archivos de Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.dbmdl
+*.jfm
+
+# Build
+bin/
+obj/
+Debug/
+Release/
